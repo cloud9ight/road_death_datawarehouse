@@ -1,0 +1,194 @@
+=== State ===
+State
+NSW    15610
+Vic    11293
+Qld    10304
+WA      6213
+SA      4342
+NT      1554
+Tas     1497
+ACT      471
+
+
+=== Month ===
+Month
+12    4601
+3     4562
+10    4424
+11    4350
+5     4350
+8     4269
+7     4215
+9     4199
+6     4153
+4     4139
+1     4123
+2     3899
+
+
+=== Year ===
+Year
+1989    2407
+1990    2050
+1991    1874
+1995    1822
+1996    1768
+1993    1737
+1992    1736
+1994    1702
+2000    1628
+1997    1601
+2001    1584
+1998    1573
+1999    1553
+2002    1525
+2005    1472
+2007    1453
+2006    1452
+2003    1445
+2004    1444
+2009    1347
+2008    1315
+2010    1233
+2016    1200
+2024    1191
+2012    1190
+2011    1151
+2023    1149
+2017    1127
+2022    1103
+2015    1102
+2013    1100
+2019    1098
+2018    1055
+2014    1050
+2021    1049
+2020     998
+
+
+=== Dayweek ===
+Dayweek
+Saturday     9237
+Friday       8369
+Sunday       8088
+Thursday     7013
+Wednesday    6499
+Tuesday      6082
+Monday       5996
+
+
+=== Crash Type ===
+Crash Type
+Single      29600
+Multiple    21684
+
+
+=== Number Fatalities ===
+Number Fatalities
+1     46920
+2      3534
+3       598
+4       163
+5        44
+6        15
+7         3
+10        2
+11        2
+12        1
+35        1
+20        1
+
+
+=== Bus 
+Involvement ===
+Bus \nInvolvement
+No     50381
+Yes      844
+NaN       59
+
+
+=== Heavy Rigid Truck Involvement ===
+Heavy Rigid Truck Involvement
+No     31364
+NaN    18211
+Yes     1709
+
+
+=== Articulated Truck Involvement ===
+Articulated Truck Involvement
+No     46470
+Yes     4759
+NaN       55
+
+
+=== Speed Limit ===
+Speed Limit
+100    16828
+60     13682
+80      6164
+110     5576
+50      3216
+70      2596
+NaN     1332
+90      1056
+40       390
+75       233
+130      112
+20        36
+10        27
+30        18
+<40        8
+5          6
+25         3
+15         1
+
+
+=== National Remoteness Areas ===
+National Remoteness Areas
+Unknown                      40811
+Major Cities of Australia     3791
+Inner Regional Australia      3461
+Outer Regional Australia      2309
+Very Remote Australia          462
+Remote Australia               450
+
+
+=== National Road Type ===
+National Road Type
+Undetermined                 41115
+National or State Highway     2858
+Arterial Road                 2420
+Local Road                    2173
+Sub-arterial Road             1752
+Collector Road                 802
+Access road                    146
+Pedestrian Thoroughfare         14
+Busway                           4
+
+
+=== Christmas Period ===
+Christmas Period
+No     49714
+Yes     1570
+
+
+=== Easter Period ===
+Easter Period
+No     50983
+Yes      301
+
+
+=== Day of week ===
+Day of week
+Weekday    30449
+Weekend    20823
+Unknown       12
+
+
+=== Time of Day ===
+Time of Day
+Day        29238
+Night      22006
+Unknown       40
+
+
