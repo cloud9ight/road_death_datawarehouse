@@ -1,3 +1,5 @@
+
+
 **选择并获取数据集**：
 
 - 使用 "Fatal Crashes - December 2024" 和 "Fatalities - December 2024" 数据集。还需使用 "Dwelling Count Data" 或 "Population Data"，或引入其他相关数据源。
@@ -65,3 +67,54 @@ source venv/bin/activate
 pip install openpyxl
 
 ```
+
+
+
+### 可能的实际需求和业务问题
+
+1. **交通事故的时空分析**
+   - **分析问题**：在不同的时间（如月份、周几、白天/夜晚）和不同的地点（如区域、LGA、道路类型）中，事故发生的频率和致死率是否存在显著差异？
+   - **核心数据**：`Crash ID`, `State`, `Month`, `Year`, `Dayweek`, `Time`, `National LGA Name 2021`, `National Road Type`, `Number Fatalities`
+   - **维度**：时间（年份、月份、周几、时间段）、地点（LGA、道路类型、区域）
+   - **分析目标**：识别交通事故发生的高峰时段和高风险区域，以便政府采取针对性措施。
+2. **不同类型道路和交通工具的安全分析**
+   - **分析问题**：哪些道路类型（如主干道、地方道路等）和交通工具（如卡车、公共汽车）与事故的发生频率和死亡人数之间有何关联？
+   - **核心数据**：`Crash ID`, `Crash Type`, `Heavy Rigid Truck Involvement`, `Articulated Truck Involvement`, `Bus Involvement`, `National Road Type`, `Number Fatalities`
+   - **维度**：道路类型、交通工具类型
+   - **分析目标**：评估不同道路类型和交通工具的危险性，为改善道路安全设计提供数据支持。
+3. **与人口密度相关的事故分析**
+   - **分析问题**：事故发生率与各地区人口密度之间是否存在关联？更高人口密度的区域是否有更多的事故？
+   - **核心数据**：`Crash ID`, `National LGA Name 2021`, `Number Fatalities`, `Population Data`
+   - **维度**：LGA、人口密度
+   - **分析目标**：根据人口密度对不同地区进行风险评估，帮助政府优化交通管理策略。
+4. **节假日和事故发生的关系**
+   - **分析问题**：节假日（如圣诞节和复活节）期间的事故发生率与其他日期相比是否更高？如果是，是否有更多致命事故？
+   - **核心数据**：`Crash ID`, `Christmas Period`, `Easter Period`, `Number Fatalities`
+   - **维度**：节假日（圣诞节、复活节）
+   - **分析目标**：识别节假日期间交通事故的特殊趋势，并制定针对性预防措施。
+5. **事故类型和道路条件分析**
+   - **分析问题**：不同类型的事故（如单车事故、多车事故）与道路条件（如速度限制、地区类别）之间是否存在关联？
+   - **核心数据**：`Crash ID`, `Crash Type`, `Speed Limit`, `National Remoteness Areas`, `Number Fatalities`
+   - **维度**：事故类型、道路速度限制、地区类别
+   - **分析目标**：评估事故类型与道路条件之间的关系，帮助政府制定针对性的交通管理策略。
+6. **交通事故发生与天气或季节性因素的关系**
+   - **分析问题**：是否在某些季节（如冬季或夏季）或恶劣天气条件下，事故的发生频率增加？这是否导致了更多的致命事故？
+   - **核心数据**：虽然提供的数据没有直接涉及天气，但可以通过外部数据（如天气情况）进一步分析。
+   - **维度**：季节、天气（如果可以合并天气数据）
+   - **分析目标**：帮助交通管理机构在天气变化时加强道路安全管理。
+7. **区域交通事故风险评估**
+   - **分析问题**：哪个区域的事故致死率最高？是否与道路质量、区域发展等因素有关？
+   - **核心数据**：`Crash ID`, `National LGA Name 2021`, `SA4 Name 2021`, `Number Fatalities`
+   - **维度**：LGA、SA4区域
+   - **分析目标**：评估不同地区的事故风险，制定地方性的道路安全改进措施。
+
+### 核心数据和数据字段
+
+- **事故数据**：`Crash ID`, `State`, `Month`, `Year`, `Dayweek`, `Time`, `Crash Type`, `Number Fatalities`, `National Road Type`, `SA4 Name 2021`, `National LGA Name 2021`, `Speed Limit`, `Bus Involvement`, `Heavy Rigid Truck Involvement`, `Articulated Truck Involvement`
+  - 这些字段直接反映了交通事故的基本情况，包括时间、地点、事故类型、致死人数等，是核心数据。
+- **人口数据**：`LGA (EN)`, `Dwelling Records`
+  - 人口数据能够与事故数据关联，帮助分析人口密度对事故发生的影响。
+- **区域数据**：`National Remoteness Areas`, `SA4 Name 2021`, `National LGA Name 2021`
+  - 这些字段能够帮助分析不同地区的事故分布，辅助评估交通安全风险。
+- **节假日信息**：`Christmas Period`, `Easter Period`
+  - 节假日信息有助于分析节假日期间的事故模式，为预防事故提供数据支持。

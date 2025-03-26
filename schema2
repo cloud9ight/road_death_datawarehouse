@@ -1,0 +1,57 @@
+### 1. **维度表 (Dimension Tables)**
+
+#### 1.1 `dim_LGA` — 地区维度表
+
+| **字段名**       | **数据类型** | **描述**              |
+| ---------------- | ------------ | --------------------- |
+| `LGA_Code`       | INT          | 地方政府区域代码      |
+| `LGA_Name`       | VARCHAR(255) | 地方政府区域名称      |
+| `Dwelling_Count` | INT          | 2021 年的居住单元数量 |
+
+
+
+#### 1.2 `dim_Crash_Type` — 事故类型维度表
+
+| **字段名**        | **数据类型** | **描述**     |
+| ----------------- | ------------ | ------------ |
+| `Crash_Type_ID`   | INT          | 事故类型ID   |
+| `Crash_Type_Name` | VARCHAR(255) | 事故类型名称 |
+
+#### 1.4 `dim_Road_Type` — 路况类型维度表
+
+| **字段名**       | **数据类型** | **描述**     |
+| ---------------- | ------------ | ------------ |
+| `Road_Type_ID`   | INT          | 路况类型ID   |
+| `Road_Type_Name` | VARCHAR(255) | 路况类型名称 |
+
+------
+
+### 2. **事实表 (Fact Tables)**
+
+#### 2.1 `fact_Traffic_Accidents` — 交通事故事实表
+
+| **字段名**             | **数据类型** | **描述**                                 |
+| ---------------------- | ------------ | ---------------------------------------- |
+| `Accident_ID`          | INT          | 事故ID                                   |
+| `LGA_Code`             | INT          | 地方政府区域代码 (外键，关联 `dim_LGA`)  |
+| `Crash_Type_ID`        | INT          | 事故类型ID (外键，关联 `dim_Crash_Type`) |
+| `Road_Type_ID`         | INT          | 路况类型ID (外键，关联 `dim_Road_Type`)  |
+|                        |              |                                          |
+| `Number_Of_Fatalities` | INT          | 死亡人数                                 |
+| `Number_Of_Injuries`   | INT          | 受伤人数                                 |
+| `Speed_Limit`          | INT          | 限速                                     |
+| `Bus_Involvement`      | BOOLEAN      | 是否涉及公交车                           |
+| `Heavy_Rigid_Truck`    | BOOLEAN      | 是否涉及重型卡车                         |
+| `Articulated_Truck`    | BOOLEAN      | 是否涉及拖挂卡车                         |
+| `Christmas_Period`     | BOOLEAN      | 是否发生在圣诞节期间                     |
+| `Easter_Period`        | BOOLEAN      | 是否发生在复活节期间                     |
+
+#### 2.2 `fact_Population` — 人口事实表
+
+| **字段名**   | **数据类型** | **描述**                                |
+| ------------ | ------------ | --------------------------------------- |
+| `LGA_Code`   | INT          | 地方政府区域代码 (外键，关联 `dim_LGA`) |
+| `Time_Key`   | INT          | 时间键 (外键，关联 `dim_Time`)          |
+| `Population` | INT          | 该年份的人口数量                        |
+|              |              |                                         |
+
