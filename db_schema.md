@@ -78,3 +78,41 @@
 
 你的数据仓库模型是一个 **星型模式（Star Schema）**，中心是 `fatal_crashes_fact` 事实表，其他维度表围绕它建立。
 
+```mermaid
+graph LR
+    %% Define CSS styles for Fact and Dimension tables
+    classDef fact fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef dim fill:#ccf,stroke:#333,stroke-width:1px;
+
+    %% Fact Table
+    F[fact_crash]:::fact
+
+    %% Dimension Tables
+    D_Date[dim_date]:::dim
+    D_Time[dim_time]:::dim
+    D_Location[dim_location]:::dim
+    D_Vehicle[dim_vehicle_involvement]:::dim
+    D_Road[dim_road_type]:::dim
+    D_Speed[dim_speed_limit]:::dim
+    D_CrashType[dim_crash_type]:::dim
+
+    %% Supporting Fact Table (connected via Dimension)
+    F_Pop[fact_lga_population]:::fact
+
+    %% Relationships (Dimension -> Fact)
+    D_Date -- date_sk --> F
+    D_Time -- time_sk --> F
+    D_Location -- location_sk --> F
+    D_Vehicle -- vehicle_involvement_sk --> F
+    D_Road -- road_type_sk --> F
+    D_Speed -- speed_limit_sk --> F
+    D_CrashType -- crash_type_sk --> F
+
+    %% Relationship for Population Data (Dimension -> Supporting Fact)
+    D_Location -- location_sk --> F_Pop
+
+    %% Optional: If you had the fact_fatality table
+    %% F_Fatality[fact_fatality]:::fact
+    %% F -- crash_sk --> F_Fatality
+```
+
