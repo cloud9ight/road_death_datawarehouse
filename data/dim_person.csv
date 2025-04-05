@@ -1,0 +1,573 @@
+Person_ID,Age,Age_Group,Remoteness
+1,74,65_to_74,Inner Regional Australia
+2,19,17_to_25,Inner Regional Australia
+3,33,26_to_39,Inner Regional Australia
+4,32,26_to_39,Outer Regional Australia
+5,62,40_to_64,Unknown
+6,61,40_to_64,Inner Regional Australia
+7,47,40_to_64,Outer Regional Australia
+8,69,65_to_74,Unknown
+9,29,26_to_39,Inner Regional Australia
+10,55,40_to_64,Outer Regional Australia
+11,45,40_to_64,Outer Regional Australia
+12,50,40_to_64,Major Cities of Australia
+13,45,40_to_64,Inner Regional Australia
+14,61,40_to_64,Outer Regional Australia
+15,29,26_to_39,Unknown
+16,33,26_to_39,Unknown
+17,74,65_to_74,Outer Regional Australia
+18,75,75_or_older,Major Cities of Australia
+19,25,17_to_25,Major Cities of Australia
+20,4,0_to_16,Major Cities of Australia
+21,27,26_to_39,Outer Regional Australia
+22,66,65_to_74,Outer Regional Australia
+23,26,26_to_39,Unknown
+24,65,65_to_74,Major Cities of Australia
+25,60,40_to_64,Unknown
+26,18,17_to_25,Unknown
+27,41,40_to_64,Unknown
+28,45,40_to_64,Unknown
+29,42,40_to_64,Inner Regional Australia
+30,25,17_to_25,Outer Regional Australia
+31,22,17_to_25,Unknown
+32,21,17_to_25,Unknown
+33,38,26_to_39,Unknown
+34,69,65_to_74,Inner Regional Australia
+35,59,40_to_64,Outer Regional Australia
+36,68,65_to_74,Outer Regional Australia
+37,66,65_to_74,Unknown
+38,51,40_to_64,Unknown
+39,76,75_or_older,Outer Regional Australia
+40,35,26_to_39,Outer Regional Australia
+41,55,40_to_64,Inner Regional Australia
+42,63,40_to_64,Major Cities of Australia
+43,64,40_to_64,Unknown
+44,30,26_to_39,Inner Regional Australia
+45,34,26_to_39,Inner Regional Australia
+46,27,26_to_39,Unknown
+47,26,26_to_39,Outer Regional Australia
+48,46,40_to_64,Inner Regional Australia
+49,50,40_to_64,Very Remote Australia
+50,85,75_or_older,Major Cities of Australia
+51,92,75_or_older,Major Cities of Australia
+52,60,40_to_64,Inner Regional Australia
+53,89,75_or_older,Unknown
+54,26,26_to_39,Inner Regional Australia
+55,60,40_to_64,Remote Australia
+56,59,40_to_64,Remote Australia
+57,77,75_or_older,Unknown
+58,63,40_to_64,Inner Regional Australia
+59,90,75_or_older,Major Cities of Australia
+60,31,26_to_39,Unknown
+61,24,17_to_25,Major Cities of Australia
+62,49,40_to_64,Inner Regional Australia
+63,21,17_to_25,Outer Regional Australia
+64,16,0_to_16,Inner Regional Australia
+65,22,17_to_25,Inner Regional Australia
+66,24,17_to_25,Unknown
+67,21,17_to_25,Major Cities of Australia
+68,43,40_to_64,Unknown
+69,23,17_to_25,Remote Australia
+70,80,75_or_older,Major Cities of Australia
+71,-9,-9,Inner Regional Australia
+72,76,75_or_older,Unknown
+73,23,17_to_25,Outer Regional Australia
+74,67,65_to_74,Unknown
+75,64,40_to_64,Outer Regional Australia
+76,17,17_to_25,Very Remote Australia
+77,35,26_to_39,Inner Regional Australia
+78,71,65_to_74,Inner Regional Australia
+79,41,40_to_64,Major Cities of Australia
+80,54,40_to_64,Major Cities of Australia
+81,18,17_to_25,Major Cities of Australia
+82,24,17_to_25,Inner Regional Australia
+83,38,26_to_39,Inner Regional Australia
+84,97,75_or_older,Inner Regional Australia
+85,46,40_to_64,Unknown
+86,83,75_or_older,Inner Regional Australia
+87,32,26_to_39,Unknown
+88,74,65_to_74,Unknown
+89,36,26_to_39,Inner Regional Australia
+90,70,65_to_74,Outer Regional Australia
+91,29,26_to_39,Major Cities of Australia
+92,39,26_to_39,Unknown
+93,26,26_to_39,Major Cities of Australia
+94,43,40_to_64,Outer Regional Australia
+95,25,17_to_25,Unknown
+96,52,40_to_64,Outer Regional Australia
+97,22,17_to_25,Major Cities of Australia
+98,53,40_to_64,Inner Regional Australia
+99,44,40_to_64,Remote Australia
+100,57,40_to_64,Inner Regional Australia
+101,47,40_to_64,Unknown
+102,18,17_to_25,Outer Regional Australia
+103,53,40_to_64,Major Cities of Australia
+104,25,17_to_25,Inner Regional Australia
+105,44,40_to_64,Inner Regional Australia
+106,64,40_to_64,Inner Regional Australia
+107,17,17_to_25,Inner Regional Australia
+108,43,40_to_64,Inner Regional Australia
+109,71,65_to_74,Major Cities of Australia
+110,69,65_to_74,Outer Regional Australia
+111,87,75_or_older,Inner Regional Australia
+112,58,40_to_64,Major Cities of Australia
+113,45,40_to_64,Major Cities of Australia
+114,38,26_to_39,Major Cities of Australia
+115,15,0_to_16,Inner Regional Australia
+116,81,75_or_older,Unknown
+117,27,26_to_39,Very Remote Australia
+118,47,40_to_64,Inner Regional Australia
+119,40,40_to_64,Unknown
+120,56,40_to_64,Unknown
+121,42,40_to_64,Unknown
+122,78,75_or_older,Inner Regional Australia
+123,76,75_or_older,Inner Regional Australia
+124,23,17_to_25,Inner Regional Australia
+125,28,26_to_39,Unknown
+126,63,40_to_64,Unknown
+127,78,75_or_older,Outer Regional Australia
+128,29,26_to_39,Outer Regional Australia
+129,37,26_to_39,Outer Regional Australia
+130,57,40_to_64,Unknown
+131,42,40_to_64,Outer Regional Australia
+132,15,0_to_16,Major Cities of Australia
+133,60,40_to_64,Outer Regional Australia
+134,57,40_to_64,Outer Regional Australia
+135,30,26_to_39,Major Cities of Australia
+136,36,26_to_39,Outer Regional Australia
+137,48,40_to_64,Major Cities of Australia
+138,54,40_to_64,Unknown
+139,68,65_to_74,Inner Regional Australia
+140,66,65_to_74,Major Cities of Australia
+141,65,65_to_74,Inner Regional Australia
+142,19,17_to_25,Outer Regional Australia
+143,20,17_to_25,Inner Regional Australia
+144,35,26_to_39,Major Cities of Australia
+145,28,26_to_39,Major Cities of Australia
+146,70,65_to_74,Inner Regional Australia
+147,31,26_to_39,Inner Regional Australia
+148,62,40_to_64,Major Cities of Australia
+149,69,65_to_74,Major Cities of Australia
+150,51,40_to_64,Major Cities of Australia
+151,37,26_to_39,Inner Regional Australia
+152,16,0_to_16,Unknown
+153,66,65_to_74,Inner Regional Australia
+154,31,26_to_39,Outer Regional Australia
+155,23,17_to_25,Unknown
+156,56,40_to_64,Inner Regional Australia
+157,82,75_or_older,Inner Regional Australia
+158,43,40_to_64,Remote Australia
+159,56,40_to_64,Major Cities of Australia
+160,75,75_or_older,Inner Regional Australia
+161,32,26_to_39,Major Cities of Australia
+162,40,40_to_64,Very Remote Australia
+163,96,75_or_older,Unknown
+164,20,17_to_25,Unknown
+165,40,40_to_64,Outer Regional Australia
+166,13,0_to_16,Outer Regional Australia
+167,12,0_to_16,Unknown
+168,37,26_to_39,Major Cities of Australia
+169,30,26_to_39,Unknown
+170,81,75_or_older,Inner Regional Australia
+171,80,75_or_older,Inner Regional Australia
+172,21,17_to_25,Inner Regional Australia
+173,39,26_to_39,Outer Regional Australia
+174,27,26_to_39,Major Cities of Australia
+175,54,40_to_64,Outer Regional Australia
+176,17,17_to_25,Outer Regional Australia
+177,19,17_to_25,Major Cities of Australia
+178,55,40_to_64,Major Cities of Australia
+179,44,40_to_64,Outer Regional Australia
+180,91,75_or_older,Major Cities of Australia
+181,11,0_to_16,Inner Regional Australia
+182,62,40_to_64,Inner Regional Australia
+183,43,40_to_64,Major Cities of Australia
+184,73,65_to_74,Major Cities of Australia
+185,46,40_to_64,Remote Australia
+186,59,40_to_64,Unknown
+187,30,26_to_39,Remote Australia
+188,34,26_to_39,Unknown
+189,73,65_to_74,Inner Regional Australia
+190,73,65_to_74,Remote Australia
+191,74,65_to_74,Major Cities of Australia
+192,83,75_or_older,Unknown
+193,27,26_to_39,Inner Regional Australia
+194,14,0_to_16,Very Remote Australia
+195,53,40_to_64,Outer Regional Australia
+196,41,40_to_64,Inner Regional Australia
+197,90,75_or_older,Unknown
+198,48,40_to_64,Inner Regional Australia
+199,34,26_to_39,Outer Regional Australia
+200,68,65_to_74,Major Cities of Australia
+201,5,0_to_16,Outer Regional Australia
+202,15,0_to_16,Outer Regional Australia
+203,78,75_or_older,Unknown
+204,70,65_to_74,Unknown
+205,20,17_to_25,Outer Regional Australia
+206,37,26_to_39,Unknown
+207,2,0_to_16,Major Cities of Australia
+208,44,40_to_64,Major Cities of Australia
+209,77,75_or_older,Major Cities of Australia
+210,48,40_to_64,Unknown
+211,33,26_to_39,Major Cities of Australia
+212,49,40_to_64,Major Cities of Australia
+213,34,26_to_39,Major Cities of Australia
+214,11,0_to_16,Major Cities of Australia
+215,39,26_to_39,Inner Regional Australia
+216,14,0_to_16,Unknown
+217,41,40_to_64,Outer Regional Australia
+218,49,40_to_64,Unknown
+219,78,75_or_older,Major Cities of Australia
+220,9,0_to_16,Major Cities of Australia
+221,30,26_to_39,Outer Regional Australia
+222,52,40_to_64,Inner Regional Australia
+223,1,0_to_16,Major Cities of Australia
+224,17,17_to_25,Unknown
+225,93,75_or_older,Major Cities of Australia
+226,87,75_or_older,Major Cities of Australia
+227,94,75_or_older,Unknown
+228,31,26_to_39,Major Cities of Australia
+229,23,17_to_25,Major Cities of Australia
+230,72,65_to_74,Inner Regional Australia
+231,81,75_or_older,Major Cities of Australia
+232,83,75_or_older,Outer Regional Australia
+233,60,40_to_64,Major Cities of Australia
+234,79,75_or_older,Inner Regional Australia
+235,17,17_to_25,Major Cities of Australia
+236,58,40_to_64,Inner Regional Australia
+237,35,26_to_39,Unknown
+238,22,17_to_25,Remote Australia
+239,51,40_to_64,Outer Regional Australia
+240,84,75_or_older,Major Cities of Australia
+241,-9,-9,Unknown
+242,59,40_to_64,Inner Regional Australia
+243,22,17_to_25,Outer Regional Australia
+244,56,40_to_64,Outer Regional Australia
+245,50,40_to_64,Unknown
+246,38,26_to_39,Outer Regional Australia
+247,63,40_to_64,Very Remote Australia
+248,18,17_to_25,Very Remote Australia
+249,57,40_to_64,Major Cities of Australia
+250,28,26_to_39,Outer Regional Australia
+251,96,75_or_older,Major Cities of Australia
+252,58,40_to_64,Outer Regional Australia
+253,50,40_to_64,Outer Regional Australia
+254,40,40_to_64,Inner Regional Australia
+255,68,65_to_74,Very Remote Australia
+256,54,40_to_64,Inner Regional Australia
+257,13,0_to_16,Inner Regional Australia
+258,73,65_to_74,Unknown
+259,78,75_or_older,Remote Australia
+260,85,75_or_older,Unknown
+261,42,40_to_64,Major Cities of Australia
+262,20,17_to_25,Major Cities of Australia
+263,61,40_to_64,Very Remote Australia
+264,55,40_to_64,Unknown
+265,79,75_or_older,Unknown
+266,80,75_or_older,Outer Regional Australia
+267,81,75_or_older,Outer Regional Australia
+268,6,0_to_16,Inner Regional Australia
+269,0,0_to_16,Unknown
+270,-9,-9,Outer Regional Australia
+271,50,40_to_64,Inner Regional Australia
+272,73,65_to_74,Outer Regional Australia
+273,72,65_to_74,Outer Regional Australia
+274,79,75_or_older,Major Cities of Australia
+275,37,26_to_39,Very Remote Australia
+276,72,65_to_74,Unknown
+277,47,40_to_64,Major Cities of Australia
+278,67,65_to_74,Outer Regional Australia
+279,3,0_to_16,Outer Regional Australia
+280,36,26_to_39,Unknown
+281,3,0_to_16,Unknown
+282,79,75_or_older,Outer Regional Australia
+283,71,65_to_74,Unknown
+284,24,17_to_25,Outer Regional Australia
+285,28,26_to_39,Very Remote Australia
+286,96,75_or_older,Outer Regional Australia
+287,52,40_to_64,Unknown
+288,63,40_to_64,Outer Regional Australia
+289,75,75_or_older,Outer Regional Australia
+290,32,26_to_39,Inner Regional Australia
+291,18,17_to_25,Inner Regional Australia
+292,8,0_to_16,Unknown
+293,16,0_to_16,Remote Australia
+294,33,26_to_39,Very Remote Australia
+295,77,75_or_older,Very Remote Australia
+296,67,65_to_74,Inner Regional Australia
+297,28,26_to_39,Inner Regional Australia
+298,3,0_to_16,Inner Regional Australia
+299,84,75_or_older,Outer Regional Australia
+300,85,75_or_older,Inner Regional Australia
+301,64,40_to_64,Major Cities of Australia
+302,59,40_to_64,Major Cities of Australia
+303,75,75_or_older,Unknown
+304,2,0_to_16,Unknown
+305,58,40_to_64,Unknown
+306,82,75_or_older,Unknown
+307,0,0_to_16,Major Cities of Australia
+308,61,40_to_64,Major Cities of Australia
+309,8,0_to_16,Outer Regional Australia
+310,83,75_or_older,Major Cities of Australia
+311,63,40_to_64,Remote Australia
+312,44,40_to_64,Very Remote Australia
+313,65,65_to_74,Unknown
+314,57,40_to_64,Remote Australia
+315,49,40_to_64,Remote Australia
+316,33,26_to_39,Outer Regional Australia
+317,66,65_to_74,Remote Australia
+318,61,40_to_64,Unknown
+319,36,26_to_39,Major Cities of Australia
+320,51,40_to_64,Inner Regional Australia
+321,49,40_to_64,Very Remote Australia
+322,40,40_to_64,Major Cities of Australia
+323,84,75_or_older,Inner Regional Australia
+324,19,17_to_25,Unknown
+325,54,40_to_64,Remote Australia
+326,93,75_or_older,Inner Regional Australia
+327,85,75_or_older,Outer Regional Australia
+328,76,75_or_older,Major Cities of Australia
+329,70,65_to_74,Major Cities of Australia
+330,75,75_or_older,Remote Australia
+331,89,75_or_older,Inner Regional Australia
+332,62,40_to_64,Outer Regional Australia
+333,9,0_to_16,Unknown
+334,12,0_to_16,Inner Regional Australia
+335,82,75_or_older,Outer Regional Australia
+336,94,75_or_older,Outer Regional Australia
+337,77,75_or_older,Outer Regional Australia
+338,53,40_to_64,Unknown
+339,25,17_to_25,Very Remote Australia
+340,45,40_to_64,Very Remote Australia
+341,26,26_to_39,Very Remote Australia
+342,15,0_to_16,Unknown
+343,86,75_or_older,Major Cities of Australia
+344,91,75_or_older,Outer Regional Australia
+345,77,75_or_older,Inner Regional Australia
+346,83,75_or_older,Very Remote Australia
+347,4,0_to_16,Unknown
+348,72,65_to_74,Major Cities of Australia
+349,13,0_to_16,Unknown
+350,87,75_or_older,Outer Regional Australia
+351,91,75_or_older,Inner Regional Australia
+352,12,0_to_16,Major Cities of Australia
+353,34,26_to_39,Remote Australia
+354,32,26_to_39,Remote Australia
+355,48,40_to_64,Outer Regional Australia
+356,7,0_to_16,Unknown
+357,16,0_to_16,Outer Regional Australia
+358,21,17_to_25,Remote Australia
+359,38,26_to_39,Remote Australia
+360,9,0_to_16,Inner Regional Australia
+361,50,40_to_64,Remote Australia
+362,71,65_to_74,Remote Australia
+363,90,75_or_older,Inner Regional Australia
+364,52,40_to_64,Major Cities of Australia
+365,88,75_or_older,Inner Regional Australia
+366,88,75_or_older,Major Cities of Australia
+367,29,26_to_39,Remote Australia
+368,90,75_or_older,Outer Regional Australia
+369,65,65_to_74,Outer Regional Australia
+370,77,75_or_older,Remote Australia
+371,89,75_or_older,Major Cities of Australia
+372,71,65_to_74,Outer Regional Australia
+373,48,40_to_64,Remote Australia
+374,56,40_to_64,Remote Australia
+375,39,26_to_39,Major Cities of Australia
+376,70,65_to_74,Remote Australia
+377,47,40_to_64,Remote Australia
+378,7,0_to_16,Outer Regional Australia
+379,46,40_to_64,Major Cities of Australia
+380,20,17_to_25,Very Remote Australia
+381,14,0_to_16,Major Cities of Australia
+382,40,40_to_64,Remote Australia
+383,39,26_to_39,Remote Australia
+384,14,0_to_16,Outer Regional Australia
+385,74,65_to_74,Remote Australia
+386,76,75_or_older,Remote Australia
+387,49,40_to_64,Outer Regional Australia
+388,55,40_to_64,Remote Australia
+389,17,17_to_25,Remote Australia
+390,73,65_to_74,Very Remote Australia
+391,25,17_to_25,Remote Australia
+392,5,0_to_16,Inner Regional Australia
+393,88,75_or_older,Outer Regional Australia
+394,60,40_to_64,Very Remote Australia
+395,82,75_or_older,Major Cities of Australia
+396,16,0_to_16,Major Cities of Australia
+397,15,0_to_16,Very Remote Australia
+398,3,0_to_16,Major Cities of Australia
+399,100,75_or_older,Major Cities of Australia
+400,29,26_to_39,Very Remote Australia
+401,86,75_or_older,Outer Regional Australia
+402,62,40_to_64,Very Remote Australia
+403,81,75_or_older,Remote Australia
+404,5,0_to_16,Unknown
+405,1,0_to_16,Unknown
+406,34,26_to_39,Very Remote Australia
+407,35,26_to_39,Very Remote Australia
+408,43,40_to_64,Very Remote Australia
+409,41,40_to_64,Very Remote Australia
+410,45,40_to_64,Remote Australia
+411,19,17_to_25,Very Remote Australia
+412,8,0_to_16,Very Remote Australia
+413,30,26_to_39,Very Remote Australia
+414,39,26_to_39,Very Remote Australia
+415,10,0_to_16,Major Cities of Australia
+416,86,75_or_older,Inner Regional Australia
+417,31,26_to_39,Remote Australia
+418,46,40_to_64,Outer Regional Australia
+419,23,17_to_25,Very Remote Australia
+420,53,40_to_64,Very Remote Australia
+421,5,0_to_16,Major Cities of Australia
+422,38,26_to_39,Very Remote Australia
+423,67,65_to_74,Major Cities of Australia
+424,20,17_to_25,Remote Australia
+425,19,17_to_25,Remote Australia
+426,24,17_to_25,Very Remote Australia
+427,32,26_to_39,Very Remote Australia
+428,46,40_to_64,Very Remote Australia
+429,54,40_to_64,Very Remote Australia
+430,52,40_to_64,Remote Australia
+431,42,40_to_64,Very Remote Australia
+432,21,17_to_25,Very Remote Australia
+433,35,26_to_39,Remote Australia
+434,92,75_or_older,Inner Regional Australia
+435,52,40_to_64,Very Remote Australia
+436,11,0_to_16,Outer Regional Australia
+437,12,0_to_16,Outer Regional Australia
+438,31,26_to_39,Very Remote Australia
+439,14,0_to_16,Inner Regional Australia
+440,37,26_to_39,Remote Australia
+441,68,65_to_74,Unknown
+442,59,40_to_64,Very Remote Australia
+443,67,65_to_74,Very Remote Australia
+444,44,40_to_64,Unknown
+445,93,75_or_older,Unknown
+446,99,75_or_older,Major Cities of Australia
+447,4,0_to_16,Outer Regional Australia
+448,1,0_to_16,Inner Regional Australia
+449,95,75_or_older,Major Cities of Australia
+450,98,75_or_older,Major Cities of Australia
+451,51,40_to_64,Very Remote Australia
+452,10,0_to_16,Very Remote Australia
+453,6,0_to_16,Outer Regional Australia
+454,96,75_or_older,Inner Regional Australia
+455,28,26_to_39,Remote Australia
+456,100,75_or_older,Inner Regional Australia
+457,8,0_to_16,Inner Regional Australia
+458,80,75_or_older,Unknown
+459,89,75_or_older,Outer Regional Australia
+460,33,26_to_39,Remote Australia
+461,10,0_to_16,Outer Regional Australia
+462,69,65_to_74,Remote Australia
+463,94,75_or_older,Inner Regional Australia
+464,13,0_to_16,Major Cities of Australia
+465,74,65_to_74,Very Remote Australia
+466,36,26_to_39,Very Remote Australia
+467,56,40_to_64,Very Remote Australia
+468,78,75_or_older,Very Remote Australia
+469,64,40_to_64,Remote Australia
+470,1,0_to_16,Outer Regional Australia
+471,0,0_to_16,Very Remote Australia
+472,7,0_to_16,Remote Australia
+473,15,0_to_16,Remote Australia
+474,48,40_to_64,Very Remote Australia
+475,70,65_to_74,Very Remote Australia
+476,6,0_to_16,Major Cities of Australia
+477,69,65_to_74,Very Remote Australia
+478,7,0_to_16,Very Remote Australia
+479,-9,-9,Major Cities of Australia
+480,62,40_to_64,Remote Australia
+481,4,0_to_16,Very Remote Australia
+482,66,65_to_74,Very Remote Australia
+483,47,40_to_64,Very Remote Australia
+484,24,17_to_25,Remote Australia
+485,55,40_to_64,Very Remote Australia
+486,85,75_or_older,Remote Australia
+487,51,40_to_64,Remote Australia
+488,75,75_or_older,Very Remote Australia
+489,80,75_or_older,Very Remote Australia
+490,27,26_to_39,Remote Australia
+491,19,-9,Inner Regional Australia
+492,79,75_or_older,Remote Australia
+493,71,65_to_74,Very Remote Australia
+494,65,65_to_74,Very Remote Australia
+495,22,17_to_25,Very Remote Australia
+496,0,0_to_16,Inner Regional Australia
+497,42,40_to_64,Remote Australia
+498,72,65_to_74,Very Remote Australia
+499,61,40_to_64,Remote Australia
+500,6,0_to_16,Remote Australia
+501,67,65_to_74,Remote Australia
+502,94,75_or_older,Major Cities of Australia
+503,12,0_to_16,Remote Australia
+504,58,40_to_64,Remote Australia
+505,36,26_to_39,Remote Australia
+506,92,75_or_older,Unknown
+507,2,0_to_16,Remote Australia
+508,18,17_to_25,Remote Australia
+509,2,0_to_16,Outer Regional Australia
+510,80,75_or_older,Remote Australia
+511,4,0_to_16,Inner Regional Australia
+512,10,0_to_16,Inner Regional Australia
+513,8,0_to_16,Major Cities of Australia
+514,58,40_to_64,Very Remote Australia
+515,9,0_to_16,Very Remote Australia
+516,84,75_or_older,Unknown
+517,57,40_to_64,Very Remote Australia
+518,88,75_or_older,Remote Australia
+519,16,0_to_16,Very Remote Australia
+520,8,0_to_16,Remote Australia
+521,9,0_to_16,Outer Regional Australia
+522,2,0_to_16,Inner Regional Australia
+523,53,40_to_64,Remote Australia
+524,1,0_to_16,Very Remote Australia
+525,84,75_or_older,Remote Australia
+526,101,75_or_older,Major Cities of Australia
+527,0,0_to_16,Remote Australia
+528,26,26_to_39,Remote Australia
+529,92,75_or_older,Very Remote Australia
+530,0,0_to_16,Outer Regional Australia
+531,95,75_or_older,Outer Regional Australia
+532,41,40_to_64,Remote Australia
+533,97,75_or_older,Major Cities of Australia
+534,12,0_to_16,Very Remote Australia
+535,5,0_to_16,Remote Australia
+536,95,75_or_older,Inner Regional Australia
+537,91,75_or_older,Unknown
+538,99,75_or_older,Outer Regional Australia
+539,4,0_to_16,Remote Australia
+540,72,65_to_74,Remote Australia
+541,7,0_to_16,Inner Regional Australia
+542,76,75_or_older,Very Remote Australia
+543,14,0_to_16,Remote Australia
+544,10,0_to_16,Remote Australia
+545,64,40_to_64,Very Remote Australia
+546,86,75_or_older,Remote Australia
+547,1,0_to_16,Remote Australia
+548,65,65_to_74,Remote Australia
+549,81,75_or_older,Very Remote Australia
+550,98,75_or_older,Inner Regional Australia
+551,101,75_or_older,Outer Regional Australia
+552,7,0_to_16,Major Cities of Australia
+553,88,75_or_older,Unknown
+554,2,0_to_16,Very Remote Australia
+555,86,75_or_older,Unknown
+556,97,75_or_older,Unknown
+557,84,75_or_older,Very Remote Australia
+558,5,0_to_16,Very Remote Australia
+559,90,75_or_older,Remote Australia
+560,79,75_or_older,Very Remote Australia
+561,82,75_or_older,Remote Australia
+562,10,0_to_16,Unknown
+563,11,0_to_16,Very Remote Australia
+564,87,75_or_older,Unknown
+565,100,75_or_older,Unknown
+566,6,0_to_16,Unknown
+567,11,0_to_16,Unknown
+568,3,0_to_16,Remote Australia
+569,82,75_or_older,Very Remote Australia
+570,99,75_or_older,Unknown
+571,95,75_or_older,Unknown
+572,98,75_or_older,Unknown

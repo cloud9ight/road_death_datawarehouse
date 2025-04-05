@@ -1,0 +1,15 @@
+Vehicle_ID,Bus_Involved,Heavy_Truck,Articulated_Truck
+1,No,No,No
+2,-9,-9,-9
+3,No,No,Yes
+4,Yes,No,Yes
+5,No,Yes,No
+6,-9,Yes,-9
+7,No,Yes,Yes
+8,Yes,No,No
+9,Yes,Yes,No
+10,-9,-9,Yes
+11,No,-9,No
+12,No,-9,Yes
+13,Yes,-9,No
+14,Yes,-9,Yes
