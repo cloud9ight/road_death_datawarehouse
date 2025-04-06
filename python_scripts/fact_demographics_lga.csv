@@ -1,0 +1,816 @@
+Location_ID,LGA_Name,Population_2021,Dwelling_Count_2021
+1,Wagga Wagga,67891,28244
+2,Hawkesbury,67605,25523
+3,Northern Midlands,14022,6444
+4,Armidale Regional,,12955
+5,,,
+6,Lockyer Valley,41750,16162
+7,Wakefield,6925,3348
+8,,,
+9,Southern Downs,36637,17447
+10,Brighton,19261,7530
+11,West Tamar,25717,11308
+12,Mid Murray,9355,7413
+13,Blue Mountains,78372,35239
+14,Upper Lachlan,8494,
+15,Wattle Range,12127,6114
+16,Cairns,169250,72620
+17,Unincorporated ACT,452508,187156
+18,Wollongong,214700,89476
+19,Penrith,219239,81250
+20,Upper Hunter,14258,
+21,South Burnett,33323,16096
+22,Mid-Western Regional,,12262
+23,Canterbury-Bankstown,372459,133438
+24,,,
+25,Mitchell,49712,19590
+26,Greater Hume,11109,
+27,Southern Downs,36637,17447
+28,Barossa,25565,11044
+29,Port Macquarie-Hastings,86638,40066
+30,Douglas,12441,6981
+31,Mackay,123148,52308
+32,Yankalilla,5931,4403
+33,Logan,350673,125977
+34,Dorset,6983,3948
+35,Armidale Regional,,12955
+36,Nambucca Valley,20382,10016
+37,Narromine,6448,2851
+38,Fraser Coast,112070,52621
+39,Unincorporated SA,3100,2910
+40,Shellharbour,76492,29884
+41,Narrabri,12808,5997
+42,Logan,350673,125977
+43,Cook,4631,3163
+44,Tenterfield,6800,3968
+45,Greater Bendigo,121272,53173
+46,Central Coast,,
+47,Tamworth Regional,,27725
+48,Whittlesea,231831,82993
+49,Hilltops,19223,9220
+50,Forbes,9385,4373
+51,Toowoomba,175255,74054
+52,Lake Macquarie,214054,88908
+53,Livingstone,39877,17841
+54,Northern Midlands,14022,6444
+55,Blacktown,399925,133984
+56,Dubbo Regional,,22823
+57,Balranald,2208,1091
+58,Lockhart River,653,228
+59,Golden Plains,24892,9408
+60,Light,16083,6046
+61,Ipswich,233314,87352
+62,Cassowary Coast,29511,15123
+63,Tumby Bay,2875,1681
+64,Liverpool,234505,77895
+65,Cumberland,237083,83189
+66,Muswellbrook,16469,7333
+67,Moreton Bay,484353,188327
+68,Ballina,46196,20889
+69,Kyogle,9346,4688
+70,Bundaberg,100095,46081
+71,Melbourne,153110,103368
+72,Brisbane,1262968,519431
+73,Snowy Valleys,14900,7075
+74,Whitsunday,37642,18043
+75,Fairfield,209066,67658
+76,Yass Valley,17240,6823
+77,Central Highlands (Qld),28298,14180
+78,The Hills,192660,
+79,Salisbury,147521,57117
+80,Port Stephens,75328,35699
+81,Macedon Ranges,51599,20630
+82,Moyne,17296,8550
+83,Cardinia,119573,43533
+84,East Gippsland,48477,26078
+85,Hornsby,152263,55952
+86,Mareeba,23171,10199
+87,Rockhampton,82882,35813
+88,Mid-Coast,96475,50474
+89,Ipswich,233314,87352
+90,Glenelg,20058,10173
+91,Western Downs,34351,16165
+92,Port Adelaide Enfield,134131,56716
+93,Cabonne,13767,5895
+94,Gold Coast,633598,270761
+95,Frankston,140824,58890
+96,Moree Plains,12964,6230
+97,Parramatta,258527,106654
+98,Meander Valley,21139,9276
+99,Queanbeyan-Palerang Regional,,26549
+100,Snowy Monaro Regional,,12251
+101,Federation,12822,6546
+102,,,
+103,Brisbane,1262968,519431
+104,Cowra,12759,6267
+105,Goulburn Mulwaree,32150,14739
+106,Gympie,53851,24767
+107,Moreton Bay,484353,188327
+108,Willoughby,76044,31175
+109,Shoalhaven,108550,58799
+110,Queanbeyan-Palerang Regional,,26549
+111,Nillumbik,63450,22406
+112,Wollongong,214700,89476
+113,South Burnett,33323,16096
+114,Tatiara,7070,3194
+115,Tweed,97216,44661
+116,Mid-Coast,96475,50474
+117,Ararat,11827,5509
+118,Colac Otway,22309,12460
+119,McKinlay,838,497
+120,Singleton,24725,9838
+121,Gladstone,64275,29868
+122,Lithgow,20855,10236
+123,Campbelltown,,
+124,Sunshine Coast,346634,149005
+125,Warrumbungle,9256,
+126,Noosa,56874,28715
+127,Port Stephens,75328,35699
+128,Moreton Bay,484353,188327
+129,Gawler,25300,11126
+130,Alpine,13166,7271
+131,Cabonne,13767,5895
+132,Brisbane,1262968,519431
+133,Baw Baw,57618,24522
+134,Isaac,22419,11014
+135,Maranoa,12957,6510
+136,Southern Grampians,16492,8292
+137,Cessnock,64120,25812
+138,Scenic Rim,43592,18468
+139,Somerset,25388,11020
+140,Hinchinbrook,10990,6030
+141,Mackay,123148,52308
+142,Stonnington,106190,59609
+143,Playford,100556,39505
+144,Cobar,4098,2320
+145,Ararat,11827,5509
+146,Adelaide Hills,41237,16270
+147,Bega Valley,35770,18867
+148,Tea Tree Gully,102044,41034
+149,Kiama,22970,10785
+150,Moyne,17296,8550
+151,Wollondilly,54196,18918
+152,Scenic Rim,43592,18468
+153,Casey,369558,122674
+154,Northern Areas,4659,2424
+155,Tablelands,26488,13184
+156,Sydney,214703,124114
+157,Murrindindi,15139,8349
+158,Albury,56067,25430
+159,Boroondara,169789,72924
+160,Redland,161709,65216
+161,Playford,100556,39505
+162,South Gippsland,30388,17145
+163,Hinchinbrook,10990,6030
+164,Yarra Ranges,157421,61574
+165,Surf Coast,37648,20678
+166,Mount Barker,39632,16054
+167,Brisbane,1262968,519431
+168,Cessnock,64120,25812
+169,Maitland,90612,35456
+170,Hobart,55947,24864
+171,Mitcham,68162,27169
+172,Clarence Valley,54212,26143
+173,Adelaide,25522,14766
+174,Clarence,62336,25894
+175,Lismore,44361,19781
+176,Greater Shepparton,68526,28885
+177,Moreland,,78310
+178,Narrandera,5733,2694
+179,Huon Valley,18797,8767
+180,Townsville,195457,83412
+181,Griffith,27195,10833
+182,Wodonga,43207,18214
+183,Mid-Coast,96475,50474
+184,Darebin,150296,68366
+185,Ballarat,113504,50347
+186,Wingecarribee,52489,23623
+187,Cardinia,119573,43533
+188,Maroondah,116075,46937
+189,Tweed,97216,44661
+190,North Burnett,10142,5494
+191,Moree Plains,12964,6230
+192,Mornington Peninsula,170440,93602
+193,Unley,39061,17360
+194,Alexandrina,29257,16760
+195,Gympie,53851,24767
+196,Melton,181346,60363
+197,Burdekin,16836,8259
+198,Knox,160481,62012
+199,Whittlesea,231831,82993
+200,Monash,192893,76463
+201,Unincorporated,,
+202,Barcaldine,2863,1896
+203,Wyndham,296322,100363
+204,Glen Innes Severn,8925,4610
+205,Brisbane,1262968,519431
+206,Northern Beaches,264567,105115
+207,Livingstone,39877,17841
+208,Yarra Ranges,157421,61574
+209,Cook,4631,3163
+210,Clarence,62336,25894
+211,Georges River,152800,58429
+212,Maitland,90612,35456
+213,Greater Hume,11109,
+214,Kingston (Vic.),159554,67622
+215,Manningham,125821,49918
+216,Bathurst Regional,,18458
+217,Wudinna,1163,616
+218,Inverell,17920,8137
+219,Brimbank,196631,71871
+220,Darebin,150296,68366
+221,Charles Sturt,123105,54847
+222,Flinders (Tas.),938,689
+223,Burnie,20408,9274
+224,Greater Geelong,270932,120823
+225,Adelaide Hills,41237,16270
+226,Onkaparinga,176595,75493
+227,Launceston,71788,31369
+228,Indigo,17251,7750
+229,Yarra,91521,50059
+230,Port Phillip,103438,63301
+231,Waratah-Wynyard,14629,6909
+232,Campaspe,38556,17840
+233,Barkly,7189,2932
+234,Blacktown,399925,133984
+235,Blayney,7511,3246
+236,Campbelltown (SA),55456,23247
+237,Latrobe (Vic.),77117,35685
+238,Palmerston,39530,14542
+239,Gunnedah,13088,5842
+240,Break O'Day,,4850
+241,Buloke,6132,3397
+242,West Wimmera,3978,2255
+243,Ku-ring-gai,124703,45894
+244,Casey,369558,122674
+245,Shoalhaven,108550,58799
+246,Warrnambool,35433,16025
+247,Berrigan,8615,4265
+248,Warren,2584,1228
+249,Victoria Daly,3221,1232
+250,Moira,30367,14948
+251,Brisbane,1262968,519431
+252,Berri Barmera,10741,5257
+253,Moonee Valley,122950,55115
+254,Litchfield,22879,8883
+255,Greater Dandenong,160100,58198
+256,Golden Plains,24892,9408
+257,Toowoomba,175255,74054
+258,Moonee Valley,122950,55115
+259,Onkaparinga,176595,75493
+260,Inner West,183839,85462
+261,Whyalla,21954,11247
+262,Rockhampton,82882,35813
+263,Unincorporated SA,3100,2910
+264,Gladstone,64275,29868
+265,Noosa,56874,28715
+266,Mount Isa,19217,9053
+267,Kingston (Vic.),159554,67622
+268,Toowoomba,175255,74054
+269,Maribyrnong,86385,40501
+270,Marion,95610,41654
+271,Gold Coast,633598,270761
+272,Mildura,56966,25371
+273,Hornsby,152263,55952
+274,Mansfield,10121,6619
+275,Charters Towers,11920,5974
+276,Richmond Valley,23595,10692
+277,Sutherland,230994,
+278,Mid-Western Regional,,12262
+279,Hume,246920,83980
+280,Newcastle,169433,74585
+281,West Tamar,25717,11308
+282,Glen Eira,150638,66235
+283,Sunshine Coast,346634,149005
+284,Nillumbik,63450,22406
+285,Yarriambiack,6510,3598
+286,Pyrenees,7619,3939
+287,Unincorporated,,
+288,Strathfield,45963,18287
+289,Bayside,,
+290,Coffs Harbour,78781,34696
+291,Lake Macquarie,214054,88908
+292,Bundaberg,100095,46081
+293,Mid Murray,9355,7413
+294,Murray Bridge,22339,10164
+295,Murray River,12785,6268
+296,Camden,120083,39601
+297,Glenorchy,51159,21879
+298,Hornsby,152263,55952
+299,Randwick,135219,59965
+300,Strathfield,45963,18287
+301,Hunters Hill,13596,5323
+302,Wangaratta,29751,13677
+303,Parkes,14451,6697
+304,Dubbo Regional,,22823
+305,Byron,36106,16996
+306,Cabonne,13767,5895
+307,Unincorporated ACT,452508,187156
+308,Moorabool,37910,15473
+309,Isaac,22419,11014
+310,Benalla,14436,7211
+311,Bellingen,13203,6390
+312,Wellington,45469,23554
+313,Central Coast,,
+314,Edward River,8437,4252
+315,Coorong,5599,3106
+316,George Town,7206,3685
+317,Ryde,129813,55742
+318,Bass Coast,40675,28981
+319,Richmond,769,438
+320,Strathbogie,11368,6164
+321,Hay,2885,1552
+322,Weddin,3592,1869
+323,Moorabool,37910,15473
+324,Moira,30367,14948
+325,Lachlan,6153,3014
+326,Waverley,69397,32850
+327,Northern Grampians,11886,6253
+328,Charters Towers,11920,5974
+329,Mareeba,23171,10199
+330,Horsham,20376,9638
+331,Adelaide Plains,9975,4006
+332,Stonnington,106190,59609
+333,Mount Remarkable,2920,1866
+334,Gilgandra,4318,2137
+335,Adelaide Plains,9975,4006
+336,Goondiwindi,10400,4857
+337,Mitchell,49712,19590
+338,Cassowary Coast,29511,15123
+339,Clare and Gilbert Valleys,9363,4678
+340,Moreton Bay,484353,188327
+341,West Torrens,62425,27977
+342,Yarriambiack,6510,3598
+343,Alpine,13166,7271
+344,Snowy Valleys,14900,7075
+345,Whitehorse,171077,71712
+346,Cloncurry,3704,2123
+347,Hawkesbury,67605,25523
+348,Western Downs,34351,16165
+349,Penrith,219239,81250
+350,Redland,161709,65216
+351,Hawkesbury,67605,25523
+352,Sorell,16963,8134
+353,Towong,6186,3125
+354,Grant,8862,3745
+355,Hepburn,16485,9511
+356,Central Highlands (Qld),28298,14180
+357,Charters Towers,11920,5974
+358,Blayney,7511,3246
+359,Hilltops,19223,9220
+360,Lockyer Valley,41750,16162
+361,,,
+362,Circular Head,8325,4064
+363,Swan Hill,21381,9554
+364,Murrumbidgee,3564,1647
+365,,,
+366,,,
+367,Upper Lachlan,8494,
+368,Orange,43750,18706
+369,Launceston,71788,31369
+370,Cowra,12759,6267
+371,Walkerville,8086,3663
+372,Bayside,,
+373,Sutherland,230994,
+374,Whitehorse,171077,71712
+375,,,
+376,Wentworth,7490,3457
+377,Tasman,2643,2644
+378,Latrobe (Tas.),12697,5816
+379,Port Augusta,14448,7015
+380,Benalla,14436,7211
+381,Liverpool Plains,7608,3694
+382,Mornington Peninsula,170440,93602
+383,Banana,14657,7247
+384,,,
+385,Mount Barker,39632,16054
+386,Inner West,183839,85462
+387,Loddon,7703,4323
+388,Eurobodalla,40464,24600
+389,Sutherland,230994,
+390,Roper Gulf,7435,2923
+391,Barunga West,2675,1928
+392,Tamworth Regional,,27725
+393,West Coast,4366,3123
+394,Tatiara,7070,3194
+395,Snowy Monaro Regional,,12251
+396,Etheridge,724,750
+397,Bland,5544,3107
+398,Oberon,5567,2828
+399,Maranoa,12957,6510
+400,East Gippsland,48477,26078
+401,Corangamite,16030,7897
+402,Yorke Peninsula,11830,10310
+403,Derwent Valley,11106,4749
+404,Hornsby,152263,55952
+405,Port Pirie,17747,8589
+406,Muswellbrook,16469,7333
+407,Circular Head,8325,4064
+408,Devonport,26896,12071
+409,Flinders (Qld),1521,992
+410,Burwood,40440,16201
+411,Alice Springs,28483,11681
+412,Nambucca Valley,20382,10016
+413,Somerset,25388,11020
+414,Lachlan,6153,3014
+415,Gwydir,4912,2443
+416,Port Adelaide Enfield,134131,56716
+417,Macedon Ranges,51599,20630
+418,Banyule,127370,53031
+419,Lithgow,20855,10236
+420,Federation,12822,6546
+421,Wagga Wagga,67891,28244
+422,Coonamble,3833,1825
+423,Kempsey,30828,14292
+424,Carrathool,2873,1312
+425,Barcoo,312,267
+426,Mareeba,23171,10199
+427,Hobsons Bay,92267,39336
+428,Temora,6013,2926
+429,Karoonda East Murray,1024,610
+430,Livingstone,39877,17841
+431,Unincorporated Vic,946,1054
+432,Gannawarra,10615,5326
+433,Blue Mountains,78372,35239
+434,Ceduna,3651,1909
+435,Parramatta,258527,106654
+436,Whitsunday,37642,18043
+437,Shellharbour,76492,29884
+438,Darwin,84854,34806
+439,Baw Baw,57618,24522
+440,Central Desert,4118,1272
+441,Sutherland,230994,
+442,Kempsey,30828,14292
+443,Carpentaria,2158,1639
+444,Unknown,,
+445,Wudinna,1163,616
+446,Murweh,4009,2269
+447,Eurobodalla,40464,24600
+448,Renmark Paringa,10007,4669
+449,Loxton Waikerie,11921,5787
+450,Central Coast (Tas.),23258,10434
+451,Berrigan,8615,4265
+452,Norwood Payneham and St Peters,37823,18126
+453,Sorell,16963,8134
+454,Clarence Valley,54212,26143
+455,Yass Valley,17240,6823
+456,MacDonnell,6574,2243
+457,Leeton,11480,4705
+458,Balranald,2208,1091
+459,Scenic Rim,43592,18468
+460,Port Macquarie-Hastings,86638,40066
+461,Kingborough,40769,17301
+462,Moreland,,78310
+463,Copper Coast,15338,9242
+464,Lockhart,3328,1417
+465,Naracoorte Lucindale,8892,4076
+466,Southern Mallee,2026,1077
+467,Glen Innes Severn,8925,4610
+468,Hornsby,152263,55952
+469,Kentish,6775,2915
+470,Goyder,4138,2371
+471,Brimbank,196631,71871
+472,Flinders Ranges,1686,1084
+473,Unknown,,
+474,Greater Geelong,270932,120823
+475,Loddon,7703,4323
+476,Wellington,45469,23554
+477,Junee,6454,2519
+478,Victor Harbor,16429,9764
+479,Burnside,46425,19630
+480,Coomalie,1400,1065
+481,Manningham,125821,49918
+482,Corangamite,16030,7897
+483,Wakefield,6925,3348
+484,Unknown,,
+485,Unknown,,
+486,Unknown,,
+487,Unknown,,
+488,Mosman,28466,13410
+489,Glamorgan-Spring Bay,5113,4752
+490,Hawkesbury,67605,25523
+491,Penrith,219239,81250
+492,Unknown,,
+493,Murrindindi,15139,8349
+494,Southern Midlands,6834,2978
+495,Scenic Rim,43592,18468
+496,Mount Alexander,20114,10141
+497,North Sydney,69471,39034
+498,Western Downs,34351,16165
+499,Woollahra,53910,26588
+500,Prospect,22487,9474
+501,Unknown,,
+502,Unknown,,
+503,Katherine,10679,4436
+504,Mareeba,23171,10199
+505,Mildura,56966,25371
+506,Northern Peninsula Area,2885,1100
+507,Mitchell,49712,19590
+508,Wingecarribee,52489,23623
+509,Kyogle,9346,4688
+510,Port Stephens,75328,35699
+511,Unincorporated NT,7420,4175
+512,Orroroo Carrieton,891,541
+513,Central Goldfields,13388,7004
+514,Unincorporated NT,7420,4175
+515,Central Darling,1758,1065
+516,Balonne,4378,2283
+517,Kingborough,40769,17301
+518,Maranoa,12957,6510
+519,Walgett,5588,2865
+520,Coolamon,4403,1974
+521,Bulloo,342,230
+522,Bellingen,13203,6390
+523,Lane Cove,39608,17340
+524,Walcha,3019,1638
+525,Northern Grampians,11886,6253
+526,Bogan,2480,1306
+527,The Hills,192660,
+528,South Gippsland,30388,17145
+529,Wollondilly,54196,18918
+530,Cleve,1775,975
+531,West Arnhem,7182,2225
+532,Wentworth,7490,3457
+533,Canterbury-Bankstown,372459,133438
+534,King Island,1652,897
+535,Kangaroo Island,4999,3350
+536,Meander Valley,21139,9276
+537,Uralla,5992,2759
+538,Holdfast Bay,37857,18707
+539,Douglas,12441,6981
+540,Carrathool,2873,1312
+541,Bogan,2480,1306
+542,Brewarrina,1487,740
+543,Wollondilly,54196,18918
+544,East Arnhem,10089,1968
+545,Port Lincoln,14879,6970
+546,Light,16083,6046
+547,Camden,120083,39601
+548,Queanbeyan-Palerang Regional,,26549
+549,Longreach,3691,2169
+550,Maitland,90612,35456
+551,Colac Otway,22309,12460
+552,Lower Eyre Peninsula,6058,3028
+553,MacDonnell,6574,2243
+554,Dandaragan,3473,2805
+555,York,3553,1883
+556,Rockingham,140584,54910
+557,Plantagenet,5534,2676
+558,Kwinana,47660,17628
+559,Murray,18639,8192
+560,Dumbleyung,698,335
+561,Port Hedland,16666,7942
+562,Coolamon,4403,1974
+563,Stirling,234322,102177
+564,Robe,1568,1669
+565,Cambridge,29822,11522
+566,Swan,158689,58928
+567,Wanneroo,216422,78061
+568,Somerset,25388,11020
+569,Canning,99306,37259
+570,Richmond Valley,23595,10692
+571,Gosnells,131366,47117
+572,The Hills,192660,
+573,Serpentine-Jarrahdale,33349,11234
+574,Mandurah,93412,44140
+575,Southern Mallee,2026,1077
+576,Woodanilling,469,221
+577,Warrumbungle,9256,
+578,Dowerin,733,422
+579,Kalgoorlie-Boulder,30670,13248
+580,Greater Geraldton,41182,18018
+581,Harvey,29625,11874
+582,Serpentine-Jarrahdale,33349,11234
+583,Bayswater,71774,32165
+584,Doomadgee,1434,376
+585,Croydon,269,214
+586,West Arnhem,7182,2225
+587,Albany,40105,18033
+588,Central Highlands (Tas.),2579,2752
+589,Lockhart,3328,1417
+590,Chittering,6099,2410
+591,Perenjori,652,254
+592,Mount Magnet,699,410
+593,Donnybrook-Balingup,6312,2821
+594,Cobar,4098,2320
+595,Hope Vale,998,348
+596,Augusta Margaret River,17303,8918
+597,Vincent,37833,18208
+598,Wickepin,712,335
+599,Clare and Gilbert Valleys,9363,4678
+600,Wangaratta,29751,13677
+601,Melton,181346,60363
+602,Cockburn,122212,48428
+603,Kalgoorlie-Boulder,30670,13248
+604,Victoria Park,38296,18019
+605,Armadale,97644,36306
+606,Bunbury,34137,15960
+607,Kalamunda,60804,23347
+608,Gingin,5751,4107
+609,Moora,2382,1156
+610,Perth,29653,17636
+611,Busselton,42009,21315
+612,Williams,1050,507
+613,Augusta Margaret River,17303,8918
+614,Derwent Valley,11106,4749
+615,Quilpie,702,507
+616,Kojonup,1963,1037
+617,Mount Marshall,467,315
+618,Kingston (SA),2375,1733
+619,Karratha,23412,10056
+620,Elliston,1038,849
+621,Coolgardie,3638,1798
+622,Port Hedland,16666,7942
+623,Tablelands,26488,13184
+624,Monash,192893,76463
+625,Derby-West Kimberley,8414,3604
+626,Mundaring,40539,14962
+627,Light,16083,6046
+628,Belmont,43868,20355
+629,Nungarin,263,135
+630,Bayside (Vic.),102328,43102
+631,Northam,11804,5237
+632,Melville,106823,42920
+633,Bassendean,16500,7187
+634,Yilgarn,1205,715
+635,Broome,18204,9419
+636,Chapman Valley,1613,694
+637,Uralla,5992,2759
+638,Broomehill-Tambellup,1089,577
+639,Meekatharra,1287,608
+640,Esperance,14396,6844
+641,Sunshine Coast,346634,149005
+642,Capel,18776,7110
+643,Dundas,699,632
+644,Federation,12822,6546
+645,Towong,6186,3125
+646,Lake Grace,1299,751
+647,Dardanup,15197,6053
+648,Kondinin,872,471
+649,Kent,506,266
+650,Canada Bay,89685,39121
+651,Wagin,1802,888
+652,Manjimup,9351,5035
+653,Fairfield,209066,67658
+654,Murray,18639,8192
+655,Denmark,6468,3670
+656,Singleton,24725,9838
+657,Banana,14657,7247
+658,Boddington,1760,839
+659,Bruce Rock,1016,425
+660,Swan,158689,58928
+661,Kulin,789,396
+662,Cuballing,927,488
+663,Dungog,9532,4224
+664,Carnarvon,5520,3763
+665,Hindmarsh,5656,3110
+666,Wyndham-East Kimberley,8050,4366
+667,Beverley,1735,971
+668,Ravensthorpe,2157,1405
+669,Joondalup,165050,62177
+670,Mount Isa,19217,9053
+671,Moorabool,37910,15473
+672,Coober Pedy,1622,1481
+673,Central Highlands (Qld),28298,14180
+674,Dalwallinu,1436,611
+675,Gnowangerup,1260,671
+676,Junee,6454,2519
+677,Loddon,7703,4323
+678,Unknown,,
+679,Goulburn Mulwaree,32150,14739
+680,Goyder,4138,2371
+681,Wongan-Ballidu,1336,685
+682,Collie,9086,4121
+683,Armadale,97644,36306
+684,Cootamundra-Gundagai,11390,
+685,Wanneroo,216422,78061
+686,East Pilbara,10378,3625
+687,Menzies,569,237
+688,Halls Creek,4038,1674
+689,Irwin,3769,2163
+690,Walgett,5588,2865
+691,Yarrabah,2597,524
+692,Pingelly,1072,553
+693,Narrabri,12808,5997
+694,Broome,18204,9419
+695,Kondinin,872,471
+696,Cue,228,204
+697,Hay,2885,1552
+698,Wollondilly,54196,18918
+699,Fraser Coast,112070,52621
+700,Quairading,981,499
+701,Randwick,135219,59965
+702,Mundaring,40539,14962
+703,Mornington,1060,373
+704,Wandering,551,260
+705,Nannup,1575,1014
+706,Broken Hill,17662,9591
+707,Ngaanyatjarraku,1476,607
+708,Brisbane,1262968,519431
+709,Corrigin,1028,508
+710,Anangu Pitjantjatjara Yunkunytjatjara,,778
+711,Fremantle,33112,15751
+712,Toodyay,4709,2382
+713,Streaky Bay,2241,1393
+714,Southern Grampians,16492,8292
+715,Victoria Plains,832,411
+716,Northampton,3332,2382
+717,Bridgetown-Greenbushes,5376,2688
+718,Kimba,1053,616
+719,Katanning,4227,1843
+720,Jerramungup,1196,913
+721,Carnamah,573,371
+722,Nambucca,,
+723,Ashburton,7781,3727
+724,West Arthur,795,376
+725,Cootamundra-Gundagai,11390,
+726,Mount Gambier,27637,12789
+727,South Perth,44952,20882
+728,Brookton,961,482
+729,Burke,430,546
+730,Nedlands,22924,8407
+731,Gingin,5751,4107
+732,Stirling,234322,102177
+733,Franklin Harbour,1322,876
+734,Northern Beaches,264567,105115
+735,Coorong,5599,3106
+736,Waroona,4355,2224
+737,Cunderdin,1341,659
+738,Greater Geraldton,41182,18018
+739,Lake Grace,1299,751
+740,Kiama,22970,10785
+741,Oberon,5567,2828
+742,Cranbrook,1134,612
+743,Break O'Day,,4850
+744,Victoria Daly,3221,1232
+745,Murrumbidgee,3564,1647
+746,Sydney,214703,124114
+747,Chapman Valley,1613,694
+748,Kingston (SA),2375,1733
+749,Mandurah,93412,44140
+750,Kalamunda,60804,23347
+751,Kellerberrin,1177,621
+752,Kalamunda,60804,23347
+753,Balonne,4378,2283
+754,Murray River,12785,6268
+755,Ararat,11827,5509
+756,Wagait,464,293
+757,Weipa,4177,1839
+758,Wyndham,296322,100363
+759,Barossa,25565,11044
+760,Pyrenees,7619,3939
+761,Pormpuraaw,632,253
+762,Wongan-Ballidu,1336,685
+763,Karratha,23412,10056
+764,Bourke,2416,1317
+765,Murray,18639,8192
+766,Bathurst Regional,,18458
+767,Redland,161709,65216
+768,Moora,2382,1156
+769,Richmond Valley,23595,10692
+770,Upper Hunter,14258,
+771,Unincorporated Vic,946,1054
+772,Melton,181346,60363
+773,Greater Shepparton,68526,28885
+774,Dungog,9532,4224
+775,Chittering,6099,2410
+776,Palm Island,2180,562
+777,West Daly,3422,709
+778,Mosman Park,9478,4122
+779,Narrogin,4937,2409
+780,Merredin,3221,1636
+781,Unincorporated NT,7420,4175
+782,Westonia,255,147
+783,Morawa,669,320
+784,Claremont,11643,5251
+785,Mingenew,423,274
+786,Merredin,3221,1636
+787,Fraser Coast,112070,52621
+788,Unknown,,
+789,The Hills,192660,
+790,Liverpool,234505,77895
+791,Boddington,1760,839
+792,Yorke Peninsula,11830,10310
+793,Goomalling,983,527
+794,Subiaco,17902,8829
+795,Trayning,307,253
+796,Manjimup,9351,5035
+797,Yarra Ranges,157421,61574
+798,Esperance,14396,6844
+799,Franklin Harbour,1322,876
+800,West Daly,3422,709
+801,Shark Bay,1069,1295
+802,Exmouth,3202,2662
+803,Ararat,11827,5509
+804,Sandstone,117,94
+805,Surf Coast,37648,20678
+806,Unknown,,
+807,Gnowangerup,1260,671
+808,Boyup Brook,1874,927
+809,Cottesloe,8245,3612
+810,Wickepin,712,335
+811,Leonora,1716,839
+812,,,
+813,,,
+814,,,
+815,,,

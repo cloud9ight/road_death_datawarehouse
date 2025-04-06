@@ -1,63 +1,62 @@
-**选择并获取数据集**：
+**Select and Acquire Datasets**:
 
-- 使用 "Fatal Crashes - December 2024" 和 "Fatalities - December 2024" 数据集。还需使用 "Dwelling Count Data" 或 "Population Data"，或引入其他相关数据源。
-- 下载并熟悉所选数据集的内容和结构。
+- Use the “Fatal Crashes – December 2024” and “Fatalities – December 2024” datasets. Also use “Dwelling Count Data” or “Population Data,” or introduce other relevant sources.
+- Download and familiarize yourself with the content and structure of the chosen datasets.
 
-**需求分析**：
+**Requirements Analysis**:
 
-- 确定数据仓库的目标，即帮助政府和公众了解道路安全的重要性，降低交通风险。
-- 明确数据仓库需要回答的业务问题，例如：
-  - 哪些因素最常导致致命车祸？
-  - 特定地区的致命车祸数量趋势如何？
-  - 不同道路使用者（如司机、行人）在致命车祸中的比例是多少？
+- Define the goal of the data warehouse: to help government and public stakeholders understand the importance of road safety and reduce traffic risks.
+- Clarify the business questions the warehouse must answer, for example:
+  - What factors most commonly lead to fatal crashes?
+  - How do fatal crash counts trend in specific regions?
+  - What is the proportion of different road users (e.g., drivers, pedestrians) in fatal crashes?
 
-**概念结构设计**：
+**Conceptual Schema Design**:
 
-- 绘制 StarNet 图，确定数据仓库的维度和事实表。
-- 识别至少 8 个维度，例如时间、地点、事故类型、车辆类型、道路条件、天气状况、驾驶员年龄和性别等。
-- 定义每个维度的层次结构和属性。
+- Draw a Star Schema diagram to identify the data warehouse’s fact and dimension tables citeturn1search2.
+- Identify at least eight dimensions, such as time, location, crash type, vehicle type, road conditions, weather conditions, driver age, and gender.
+- Define the hierarchy and attributes of each dimension.
 
-**逻辑结构设计**：
+**Logical Schema Design**:
 
-- 将概念模型转换为逻辑模型，设计星型或雪花模式的数据库架构。
-- 确定事实表和维度表的字段，以及它们之间的关系。
-- 确保每个表都有主键，事实表中的外键引用相应的维度表主键。
+- Convert the conceptual model into a logical model, choosing a star or snowflake schema.
+- Specify the fields for the fact table and each dimension table, and define their relationships.
+- Ensure every table has a primary key, and that the fact table’s foreign keys reference the corresponding dimension table primary keys.
 
-**物理结构设计**：
+**Physical Schema Design**:
 
-- 选择合适的数据库管理系统（DBMS），如 PostgreSQL。
-- 根据逻辑模型，在 DBMS 中创建实际的数据库表。
-- 考虑索引、分区等性能优化策略。
+- Select a suitable DBMS (e.g., PostgreSQL).
+- Create the actual tables in the DBMS based on your logical design.
+- Plan performance optimizations such as indexing and partitioning.
 
-**数据清洗与加载**：
+**Data Cleaning and Loading**:
 
-- 对原始数据进行清洗，处理缺失值、重复值和异常值。
-- 将清洗后的数据转换为符合数据仓库架构的格式。
-- 使用 ETL（抽取、转换、加载）工具或编写脚本，将数据加载到数据仓库中。
+- Clean the raw data: handle missing values, duplicates, and outliers.
+- Transform the cleaned data to fit the warehouse schema.
+- Use ETL tools or write scripts to extract, transform, and load the data into the warehouse.
 
-**多维数据分析与可视化**：
+**Multidimensional Data Analysis and Visualization**:
 
-- 使用 SQL 查询或 OLAP 工具，对数据仓库进行多维度分析，回答之前定义的业务问题。
-- 使用 Power BI、Tableau 等可视化工具，创建仪表板和报告，展示关键见解。
-- 确保包含地图可视化，以展示地理分布和区域差异。
+- Use SQL queries or OLAP tools for multidimensional analysis to answer your business questions.
+- Build dashboards and reports in Power BI or Tableau to present key insights.
+- Include map visualizations to show geographic distribution and regional differences.
 
-**关联规则挖掘**：
+**Association Rule Mining**:
 
-- 使用 Python 编写代码，选择适当的算法（如 Apriori、FP-Growth）对数据进行关联规则挖掘。
-- 分析并解释右侧包含 "Road User" 的前 k 条规则（按提升度和置信度排序）。
-- 用通俗易懂的语言解释这些规则的含义。
-- 根据挖掘结果，提出至少三条建议，供政府参考以改善道路安全。
+- Write Python code using an algorithm like Apriori or FP‑Growth for association rule mining.
+- Analyze and interpret the top k rules involving “Road User,” ranked by lift and confidence.
+- Explain these rules in clear, accessible language.
+- Propose at least three actionable recommendations for government policy based on your findings.
 
-**撰写报告并提交**：
+**Write and Submit the Report**:
 
-- 整理并编写项目报告，包括以下内容：
-  - 项目背景和目标。
-  - 数据描述和预处理过程。
-  - 数据仓库设计（包含 StarNet 图和数据库架构）。
-  - 多维数据分析结果和可视化展示。
-  - 关联规则挖掘的方法、结果和建议。
-- 确保报告内容清晰、结构合理，并符合提交要求。
-- 在截止日期（4 月 11 日晚上 11:59）前，通过 LMS 提交报告和相关文件。
+- Compile the project report, including:
+  - Background and objectives
+  - Data description and preprocessing steps
+  - Data warehouse design (with Star Schema diagram and database architecture)
+  - Multidimensional analysis results and visualizations
+  - Association rule mining methods, results, and recommendations
+- Ensure the report is clear, well‑structured, and meets submission guidelines.
 
 ```
 python3 -m venv venv
