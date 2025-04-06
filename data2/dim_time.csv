@@ -1,0 +1,25 @@
+Time_ID,Time,Time of Day,Time Period
+0,0,Night,Midnight
+1,1,Night,Midnight
+2,2,Night,Midnight
+3,3,Night,Midnight
+4,4,Night,Early Morning
+5,5,Night,Early Morning
+6,6,Day,Early Morning
+7,7,Day,Early Morning
+8,8,Day,Morning
+9,9,Day,Morning
+10,10,Day,Morning
+11,11,Day,Morning
+12,12,Day,Afternoon
+13,13,Day,Afternoon
+14,14,Day,Afternoon
+15,15,Day,Afternoon
+16,16,Day,Evening
+17,17,Day,Evening
+18,18,Day,Evening
+19,19,Night,Evening
+20,20,Night,Late Night
+21,21,Night,Late Night
+22,22,Night,Late Night
+23,23,Night,Late Night
