@@ -1,0 +1,15 @@
+Vehicle_ID,Bus_Involved,Heavy_Truck,Articulated_Truck,Description
+1,0,0,0,Bus not involved; Heavy rigid truck not involved; Articulated truck not involved
+2,-9,-9,-9,Bus involvement unknown; Heavy rigid truck involvement unknown; Articulated truck involvement unknown
+3,0,0,1,Bus not involved; Heavy rigid truck not involved; Articulated truck involved
+4,1,0,1,Bus involved; Heavy rigid truck not involved; Articulated truck involved
+5,0,1,0,Bus not involved; Heavy rigid truck involved; Articulated truck not involved
+6,-9,1,-9,Bus involvement unknown; Heavy rigid truck involved; Articulated truck involvement unknown
+7,0,1,1,Bus not involved; Heavy rigid truck involved; Articulated truck involved
+8,1,0,0,Bus involved; Heavy rigid truck not involved; Articulated truck not involved
+9,1,1,0,Bus involved; Heavy rigid truck involved; Articulated truck not involved
+10,-9,-9,1,Bus involvement unknown; Heavy rigid truck involvement unknown; Articulated truck involved
+11,0,-9,0,Bus not involved; Heavy rigid truck involvement unknown; Articulated truck not involved
+12,0,-9,1,Bus not involved; Heavy rigid truck involvement unknown; Articulated truck involved
+13,1,-9,0,Bus involved; Heavy rigid truck involvement unknown; Articulated truck not involved
+14,1,-9,1,Bus involved; Heavy rigid truck involvement unknown; Articulated truck involved
