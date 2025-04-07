@@ -1,9 +1,3 @@
-CREATE TABLE dim_speed_limit (
-    Speed_ID INT PRIMARY KEY,
-    Speed_Value INT NOT NULL,
-    Description VARCHAR(20) NOT NULL
-);
-
 CREATE TABLE fact_crash (
     Crash_ID INT NOT NULL, 
     Time_ID INT NOT NULL, 

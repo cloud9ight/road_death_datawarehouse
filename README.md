@@ -1,7 +1,6 @@
 **Select and Acquire Datasets**:
 
 - Use the “Fatal Crashes – December 2024” and “Fatalities – December 2024” datasets. Also use “Dwelling Count Data” or “Population Data,” or introduce other relevant sources.
-- Download and familiarize yourself with the content and structure of the chosen datasets.
 
 **Requirements Analysis**:
 
