@@ -441,6 +441,7 @@ _(Addresses Visualize Queries - 5 marks)_
 3.  **Parameter Creation:**
     - Created an Integer parameter named `[Select Year]` with allowable values restricted to the range 2001-2023 (matching available population data)
 4.  **Calculated Field:**
+
     - **`[Selected Year Fatality Count (LGA)]`:**
       ```tableau
       // Calculates total fatalities for the selected year per LGA
@@ -470,6 +471,7 @@ _(Addresses Visualize Queries - 5 marks)_
           NULL
       END
       ```
+
 5.  **Map Construction:**
     - In a new worksheet. Use `Geometry` (from GeoJSON) to generate the base map.
     - Dragged `LGA_name` onto the **Detail** shelf on the Marks card.
@@ -631,6 +633,7 @@ Future work could enhance this analysis:
 3.  **Parameter Creation:**
     - Created an Integer parameter named `[Select Year]` with allowable values restricted to the range 2001-2023 (matching available population data)
 4.  **Calculated Field:**
+
     - **`[Selected Year Fatality Count (LGA)]`:**
       ```tableau
       // Calculates total fatalities for the selected year per LGA
@@ -660,6 +663,7 @@ Future work could enhance this analysis:
           NULL
       END
       ```
+
 5.  **Map Construction:**
     - In a new worksheet. Use `Geometry` (from GeoJSON) to generate the base map.
     - Dragged `LGA_name` onto the **Detail** shelf on the Marks card.
