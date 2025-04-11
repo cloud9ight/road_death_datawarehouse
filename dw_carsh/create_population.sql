@@ -1,5 +1,5 @@
 CREATE TABLE fact_population_wide (
-    -- Using the ID from your prepared data as the primary key
+    -- Using the ID from our prepared data as the pk
     State_Population_ID INT PRIMARY KEY, -- Assuming this is unique and suitable as PK
 
     -- Foreign Keys linking to dimension tables
@@ -120,9 +120,10 @@ ORDER BY
 
 -- Use CTEs to calculate each metric separately
 WITH CrashCountNSW2023 AS (
-    -- Calculate the total number of crashes in NSW for 2023
+    -- Calculate the total number of crashes and fatalities in NSW for 2023
     SELECT
-        COUNT(fc.Crash_ID) AS total_crashes
+        COUNT(fc.Crash_ID) AS total_crashes,
+        SUM(fc.Number_Fatalities) AS total_fatalities
     FROM
         fact_crash fc
     JOIN
@@ -147,8 +148,9 @@ PopulationNSW2023 AS (
 SELECT
     'NSW' AS State,               -- Display the state name
     2023 AS Year,                 -- Display the year
-    cc.total_crashes,           -- Get the total crash count from the first CTE
-    pt.total_population         -- Get the total population from the second CTE
+    cc.total_crashes,  
+    cc.total_fatalities,         -- Get total crash count from the first CTE
+    pt.total_population         -- Get total population from the second CTE
 FROM
     CrashCountNSW2023 cc,       -- Reference the first CTE
     PopulationNSW2023 pt;       -- Reference the second CTE
